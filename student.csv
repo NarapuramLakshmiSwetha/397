@@ -1,21 +1,4 @@
-package q27328;
-import java.util.*;
-class SwapNumbers
-{
-
-public static void main(String args[])
-{
-int a,b,t;
-Scanner sc=new Scanner(System.in);
-System.out.print(&quot;n1: &quot;);
-a=sc.nextInt();
-System.out.print(&quot;n2: &quot;);
-b=sc.nextInt();
-System.out.println(&quot;Original numbers: n1 = &quot; +a+&quot;, n2 = &quot; +b);
-t=a;
-a=b;
-b=t;
-System.out.println(&quot;Swapped numbers: n1 = &quot; +a+&quot;, n2 = &quot; +b);[
+[
     {
         "RollNo": "2211CS010363",
         "EmailID": "2211CS010363@mallareddyuniversity.ac.in",
